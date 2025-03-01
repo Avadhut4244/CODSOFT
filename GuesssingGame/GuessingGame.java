@@ -25,9 +25,9 @@ public class GuessingGame {
                 attempts++;
 
                 if (userGuess < numberToGuess) {
-                    System.out.println("Try Again" + ( 6 - attempts) + "  attempts left.");
+                    System.out.println("Try Again " + ( 5 - attempts) + "  attempts left.");
                 } else if (userGuess > numberToGuess) {
-                    System.out.println("Try Again" + (6 - attempts) + "  attempts left.");
+                    System.out.println("Try Again " + ( 5 - attempts) + "  attempts left.");
                 } else {
                     System.out.println("Congratulations! You have taken" + attempts + " attempts.");
                     guessed = true;
