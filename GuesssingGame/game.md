@@ -1,0 +1,5 @@
+- **Description**: Implement a guessing game where the user has to guess a randomly generated number within a specified range.
+- **Requirements**:
+- The user should have a limited number of attempts.
+- Provide feedback on whether the guess is too high or too low.
+- Allow multiple rounds and display the user's score.
