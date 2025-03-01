@@ -1,4 +1,4 @@
-package CODSOFT;
+package CODSOFT.GuesssingGame;
 import java.util.Random;
 import java.util.Scanner;
 
